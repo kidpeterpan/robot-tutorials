@@ -1,6 +1,6 @@
 robotframework
 robotframework-seleniumlibrary==3.0.1
 robotframework-requests==0.3.8
-pyyaml==3.11
+pyyaml==5.4
 
 
